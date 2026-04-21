@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Flask Instance folder (contains your database)
+instance/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
